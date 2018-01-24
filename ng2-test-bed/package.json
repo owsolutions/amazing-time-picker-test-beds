@@ -26,7 +26,6 @@
     "@angular/router": "3.4.5",
     "@angular/tsc-wrapped": "^0.5.0",
     "@angular/upgrade": "2.4.5",
-    "amazing-time-picker": "file:///C:\\Users\\Sami\\Desktop\\amazing-time-picker\\amazing-time-picker\\npm_dist\\amazing-time-picker-1.4.2.tgz",
     "angular-in-memory-web-api": "~0.2.4",
     "core-js": "^2.4.1",
     "rxjs": "5.0.1",
